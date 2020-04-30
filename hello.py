@@ -1,4 +1,4 @@
 a="hi"
 b="world"
-
-print(a+b)
+c="name"
+print(a+b+c)
